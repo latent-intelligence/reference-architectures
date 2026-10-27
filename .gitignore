@@ -1,0 +1,8 @@
+context/
+references/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+CLAUDE.local.md
